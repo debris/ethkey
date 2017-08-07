@@ -1,6 +1,6 @@
 # *DEPRECATED*
 
-Please use https://github.com/ethcore/parity/tree/master/ethkey
+Please use https://github.com/paritytech/parity/tree/master/ethkey
 
 
 # ethkey
@@ -12,7 +12,7 @@ Please use https://github.com/ethcore/parity/tree/master/ethkey
 
 Ethereum keys generator.
 
-[Documentation](http://ethcore.github.io/ethkey/ethkey/index.html)
+[Documentation](http://paritytech.github.io/ethkey/ethkey/index.html)
 
 ### Usage
 
